@@ -1,0 +1,22 @@
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.exe
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.pdb
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.xml
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii_Image_Uploader.MainWindow.resources
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii_Image_Uploader.Resources.resources
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.vbproj.GenerateResource.Cache
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.exe
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.xml
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.pdb
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\obj\Debug\Gavii_Image_Uploader.Runner.resources
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Image Uploader\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.exe.config
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.exe.config
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.exe
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.xml
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.pdb
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.exe
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.pdb
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\bin\Debug\Gavii Image Uploader.xml
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii_Image_Uploader.MainWindow.resources
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii_Image_Uploader.Resources.resources
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii_Image_Uploader.Runner.resources
+C:\Users\Erwan\Documents\Visual Studio 2012\Projects\Gavii Screenshot\Gavii Image Uploader\obj\Debug\Gavii Image Uploader.vbproj.GenerateResource.Cache
